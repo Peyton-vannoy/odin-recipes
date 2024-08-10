@@ -1,0 +1,30 @@
+html {
+  font-size: 16px;
+  max-width: 1440px;
+}
+
+h1 {
+  font-size: 3em;
+  background-color: silver;
+  color: gold;
+  text-align: center;
+}
+
+.navlink {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+.images {
+  display: flex;
+  width: 400px;
+  justify-content: space-between;
+  height: auto;
+}
+
+img {
+  width: 400px;
+  display: flex;
+  margin: auto;
+}
